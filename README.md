@@ -9,8 +9,11 @@ Realationship between clients and buildings is one to many, since one client can
 # Requirements
 
 -> add/delete materials
+
 -> add/delete buildings
+
 -> add new clients to the buildings
+
 -> remove relationship between clients and buildings
 
 
