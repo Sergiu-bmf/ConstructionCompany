@@ -1,0 +1,17 @@
+.gitignore
+.openapi-generator-ignore
+README.md
+api.module.ts
+api/api.ts
+api/buildings.service.ts
+api/buyers.service.ts
+api/material.service.ts
+configuration.ts
+encoder.ts
+git_push.sh
+index.ts
+model/building.ts
+model/buyer.ts
+model/material.ts
+model/models.ts
+variables.ts
