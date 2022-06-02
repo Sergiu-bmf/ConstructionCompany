@@ -34,7 +34,7 @@ namespace StudentManagerAPI2
             );
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "StudentManagerAPI2", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "ConstructionManager", Version = "v1" });
             });
             services.AddDbContext<ConstructionContext>(options =>
               options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repository\\StudentManagerAPI2\\Source Code\\ConstructionManagement\\ConstructionManagement.csproj": {}
+    "C:\\Users\\USER\\Documents\\DB\\Project\\Source Code\\ConstructionManagement\\ConstructionManagement.csproj": {}
   },
   "projects": {
-    "D:\\Repository\\StudentManagerAPI2\\Source Code\\ConstructionManagement\\ConstructionManagement.csproj": {
+    "C:\\Users\\USER\\Documents\\DB\\Project\\Source Code\\ConstructionManagement\\ConstructionManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repository\\StudentManagerAPI2\\Source Code\\ConstructionManagement\\ConstructionManagement.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\DB\\Project\\Source Code\\ConstructionManagement\\ConstructionManagement.csproj",
         "projectName": "ConstructionManagement",
-        "projectPath": "D:\\Repository\\StudentManagerAPI2\\Source Code\\ConstructionManagement\\ConstructionManagement.csproj",
-        "packagesPath": "C:\\Users\\daria\\.nuget\\packages\\",
-        "outputPath": "D:\\Repository\\StudentManagerAPI2\\Source Code\\ConstructionManagement\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Documents\\DB\\Project\\Source Code\\ConstructionManagement\\ConstructionManagement.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\DB\\Project\\Source Code\\ConstructionManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\daria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -103,7 +103,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
